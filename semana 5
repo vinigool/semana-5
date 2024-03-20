@@ -1,0 +1,6 @@
+Exercícios
+ 1 – implemente o algoritmo de ordenação Bubble Sort usando python;
+ 2 – implemente um algorítimo que imprima apenas as vogais de uma 
+determinada palavra ou frase.
+ dica 1: textos no python são sequências 
+dica 2: use uma variável para armazenar a palavra
